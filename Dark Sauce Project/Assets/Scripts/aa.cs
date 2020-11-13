@@ -5,6 +5,7 @@ using UnityEngine;
 public class aa : MonoBehaviour
 {
     public int nothing;
+    public int something;
     
     void Start()
     {
